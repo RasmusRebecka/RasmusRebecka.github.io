@@ -1,5 +1,6 @@
 ---
 layout: home
+title: soligt
 ---
 
 <!-- Full-bleed hero injected inside Markdown -->
