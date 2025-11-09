@@ -110,8 +110,6 @@
   z-index: 1001;
 }
 
-/* avoid tiny horizontal scroll from the 100vw trick */
-body { overflow-x: hidden; }
 
 .map-container {
   position: relative;
