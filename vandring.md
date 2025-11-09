@@ -1,5 +1,6 @@
 ---
 layout: home
+title: vandring
 ---
 
 <!-- Full-bleed hero injected inside Markdown -->

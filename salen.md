@@ -1,5 +1,6 @@
 ---
 layout: home
+title: salen
 ---
 
 <!-- Full-bleed hero injected inside Markdown -->
