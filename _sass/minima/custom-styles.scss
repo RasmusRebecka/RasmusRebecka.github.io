@@ -126,3 +126,22 @@
   height: 100%;
   border: 0;
 }
+
+.calendar-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #fff;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 10px 18px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s ease;
+}
+
+.calendar-button:hover {
+  background: #f5f5f5;
+}
+

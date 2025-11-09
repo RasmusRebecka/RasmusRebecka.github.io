@@ -19,6 +19,11 @@ layout: default
 Bröllopsfirandet smygstartar redan på fredagen den 28:e augusti.
 Själva vigseln sker på lördagen den 29 augusti.
 
+<a class="calendar-button" target="_blank"
+  href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDByY2ZzZjMyazhtbWhtZmc1aTMxOXM2OWUgcmFzbXVzLmJ1cmdlLnJiQG0&tmsrc=rasmus.burge.rb%40gmail.com">
+  📅 <span>Spara datumet i din kalender</span>
+</a>
+
 [OSA här »](/osa.html)
 
 ## Vart?
