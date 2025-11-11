@@ -1,6 +1,6 @@
 ---
 layout: home
-title: OSA
+title: "Osa"
 ---
 
 Här kommer du kunna OSA!
