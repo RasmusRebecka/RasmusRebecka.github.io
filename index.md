@@ -8,7 +8,10 @@ title: "Home"
   <section class="hero">
     <div class="content">
       <h1>Rasmus &amp; Rebecka</h1>
+
       <h2>29 augusti 2026</h2>
+      <div id="countdown"></div>
+      <script src="/assets/script.js"></script>
       <br />
       <br />
     </div>
@@ -18,7 +21,6 @@ title: "Home"
 <br />
 
 ## När?
-
 Bröllopsfirandet smygstartar redan på fredagen den 28:e augusti.
 Själva vigseln sker på lördagen den 29 augusti.
 
@@ -29,10 +31,15 @@ Själva vigseln sker på lördagen den 29 augusti.
 
 [OSA här »](/osa.html)
 
+
+
+
+
+
 ## Vart?
 
 Vi kommer att gifta oss i den lilla sköna staden Askersund.
-Bröllopet kommer att äga rum i Askersund landskyrka.
+Bröllopet kommer att äga rum i Askersund landskyrka, sedan bär det av för middag och fest på Stjernsunds slott.
 
 <div class="map-container">
   <iframe
